@@ -8,7 +8,4 @@ creating a new branch is not only happy but simple.
 
 dev1.0
 
-
-
-dev1.1
 dev1.2
